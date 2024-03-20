@@ -1,0 +1,14 @@
+﻿  WikipediaParser2.cpp
+D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\WikipediaParser2.cpp(63,16): warning C4101: 'result': unreferenced local variable
+D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\WikipediaParser2.cpp(62,15): warning C4101: 'row': unreferenced local variable
+D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\WikipediaParser2.cpp(114,16): warning C4101: 'result': unreferenced local variable
+D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\WikipediaParser2.cpp(113,15): warning C4101: 'row': unreferenced local variable
+D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\WikipediaParser2.cpp(303,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\WikipediaParser2.cpp(318,80): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\WikipediaParser2.cpp(515,16): warning C4101: 'result': unreferenced local variable
+D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\WikipediaParser2.cpp(516,15): warning C4101: 'row': unreferenced local variable
+  WikipediaParser.vcxproj -> D:\_AugmentedIntelligence\Wikis2SQL\WikipediaParser2\x64\Debug\WikipediaParser2.exe
